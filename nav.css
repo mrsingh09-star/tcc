@@ -1,0 +1,32 @@
+#dv1
+{
+background-color:cornsilk;
+padding:10px 10px;
+margin:10px;
+}
+li
+{
+display:inline;
+margin:35px;
+}
+li>a
+{
+text-decoration:none;
+padding:5px;
+margin:5px;
+color:black;
+}
+li>a:hover
+{
+transition:all ease 2s;
+background-color:azure;
+border:2px solid silver;
+border-radius:10px;
+}
+#dv2
+{
+background-color:black;
+padding:10px 10px;
+margin:10px;
+height:20px;
+}
