@@ -4,6 +4,10 @@ background-color:cornsilk;
 padding:10px 10px;
 margin:10px;
 }
+body
+{
+  background:https://images.unsplash.com/photo-1614850523060-8da1d56ae167?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHQlMjBjb2xvdXJ8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000;
+}
 li
 {
 display:inline;
@@ -29,4 +33,5 @@ background-color:black;
 padding:10px 10px;
 margin:10px;
 height:20px;
+
 }
